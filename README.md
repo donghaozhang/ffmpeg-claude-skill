@@ -36,8 +36,8 @@ The FFmpeg skill covers:
 
 ### Option 1: Project-level (this repo only)
 ```bash
-git clone https://github.com/donghaozhang/ffmpeg-skill.git
-cd ffmpeg-skill
+git clone https://github.com/donghaozhang/ffmpeg-claude-skill.git
+cd ffmpeg-claude-skill
 # Start Claude Code in this directory
 ```
 
