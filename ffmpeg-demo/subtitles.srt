@@ -1,0 +1,11 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hello! This is the first subtitle.
+
+2
+00:00:02,000 --> 00:00:04,000
+This is the second subtitle line.
+
+3
+00:00:04,000 --> 00:00:05,000
+Goodbye! End of video.
